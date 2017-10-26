@@ -1,0 +1,5 @@
+./test/EN/Annapolis_EN.txt	./test/RO/Annapolis_RO.txt	1
+./test/EN/Acheron_EN.txt	./test/RO/Acheron_RO.txt	1
+./test/EN/Levant_EN.txt	./test/RO/Levant_RO.txt	1
+./test/EN/China_EN.txt	./test/RO/China_RO.txt	1
+./test/EN/Nazism_EN.txt	./test/RO/Nazism_RO.txt	1

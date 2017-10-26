@@ -1,0 +1,8 @@
+To do a quick test-run, just issue (from this directory) the command:
+
+./pexacc2.pl --source en --target ro --input test/wiki-en-ro-docalign-test.txt --output test.out
+
+If on Windows, be sure to configure the file 'cluster.info' and 'pexacc2conf.pm' first!
+In Windows it is recommended to run PEXACC under Cygwin.
+
+For more details, please read ACCURAT D2.6 Ver 2.0 deliverable.
